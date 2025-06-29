@@ -1,1 +1,1 @@
-# Bind
+# Bind VibeCode
